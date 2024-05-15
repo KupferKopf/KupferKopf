@@ -6,6 +6,7 @@
 Hi, hello my name is Max Hammerer, im a 20 year old austrian 🇦🇹 Programmer/Software Dev.
 
 I attended and graduated from HTL Spengergasse last Summer (2023) after 5 years.
+
 (the HTL stands for Higher technical education facility and has a focus in IT & programming)
 
 
